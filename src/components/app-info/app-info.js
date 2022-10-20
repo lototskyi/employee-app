@@ -1,4 +1,4 @@
-import './app-info.css';
+import './app-info.scss';
 
 const AppInfo = ({increased, employees}) => {
     return (
@@ -10,4 +10,4 @@ const AppInfo = ({increased, employees}) => {
     );
 }
 
-export default AppInfo;
+export default AppInfo; 
